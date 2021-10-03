@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SviatoslavKobylchenko
-- 👀 I’m interested in Front-End developing
+- 👀 I’m interested in Front-End(HTML, CSS, JavaScript) developing
 - 🌱 I’m currently learning Ivan Petrychenko's course in Udemy + CS50 course by 2019
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me svyat.kobi@gmail.com
